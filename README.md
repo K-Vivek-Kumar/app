@@ -11,3 +11,6 @@ Use the command as per the flutter documentation:
 ```
 flutter run
 ```
+
+## Limitations
+This is only the login page and done as per the knowledge.
